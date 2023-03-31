@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenid@s a mi "MundoGit"</h1>
 
 <p align="center">
-           <img width="912" height="360" src=https://actions.es/wp-content/uploads/2020/08/datos1-1.jpg>
+           <img width="720" height="360" src=https://actions.es/wp-content/uploads/2020/08/datos1-1.jpg>
 </p>
 
 ```python
