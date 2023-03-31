@@ -7,9 +7,9 @@
 ```python
 #Sobre mi...
 def sobre_mi():
-   nombre = "Victor Beneito"
-   pais = "Spain"
-   titulacion_iniversitaria = "Ingeniería Técnica en Informática de Gestión, Universidad Pontificia de Salamanca"
+   nombre = "Víctor Beneito López"
+   pais = "España"
+   titulacion_iniversitaria = "Ingeniería Técnica en Informática de Gestión (Universidad Pontificia de Salamanca)"
    master = "Master of Business Administration (MBA), EAE Business School (Universidad de Barcelona)"
    experiencia laboral = "Director de Agencias (Caser Seguros), Ejecutivo Comercial (Banco Santander), Encargado de tienda (Grupo PCBox)"
    hobbies y aficiones = "Música, lectura, viajes, videojuegos... y por supuesto: el mundo de la INFORMÁTICA"
