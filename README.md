@@ -36,6 +36,7 @@ def sobre_mi():
 <div align="center">
            
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Power BI](https://img.shields.io/badge/powerbi-Power%20BI-orange?style=for-the-badge&logo=git&logoColor=white)](https://powerbi.microsoft.com/)
 
 </div>
 
