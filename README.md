@@ -9,10 +9,10 @@
 def sobre_mi():
    nombre = "Víctor Beneito López"
    pais = "España"
-   titulacion_iniversitaria = "Ingeniería Técnica en Informática de Gestión (Universidad Pontificia de Salamanca)"
+   titulacion_universitaria = "Ingeniería Técnica en Informática de Gestión (Universidad Pontificia de Salamanca)"
    master = "Master of Business Administration (MBA), EAE Business School (Universidad de Barcelona)"
-   experiencia laboral = "Director de Agencias (Caser Seguros), Ejecutivo Comercial (Banco Santander), Encargado de tienda (Grupo PCBox)"
-   hobbies y aficiones = "Música, lectura, viajes, videojuegos... y por supuesto: el mundo de la INFORMÁTICA"
+   experiencia_laboral = "Director de Agencias (Caser Seguros), Ejecutivo Comercial (Banco Santander), Encargado de tienda (Grupo PCBox)"
+   hobbies_y_aficiones = "Música, lectura, viajes, videojuegos... y por supuesto: el mundo de la INFORMÁTICA"
 ```
 
 <h3 align="center">Capacidades y habilidades técnicas actuales:star:</h3>
@@ -20,6 +20,7 @@ def sobre_mi():
 <div align="center">
            
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://analytics.google.com)
+[![Looker](https://img.shields.io/badge/looker-blue?style=for-the-badge&logo=looker&logoColor=white)](https://www.looker.com/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
@@ -27,7 +28,7 @@ def sobre_mi():
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
-[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/es-es/windows/)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows/)
            
 </div>
 
@@ -69,5 +70,5 @@ def sobre_mi():
 
 <img src="https://github-readme-stats.vercel.app/api?username=VicBene&theme=tokyonight" style="max-width: 100%;" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicBene&theme=tokyonight" style="max-width: 100%;" height="180em">
-           
+      
 </div>
