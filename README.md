@@ -35,7 +35,7 @@ def sobre_mi():
            
 </div>
 
-<h3 align="center">Capacidades y habilidades técnicas futuras (estamos trabajando en ello):muscle:</h3>
+<h3 align="center">Capacidades y habilidades en formación (estamos trabajando en ello):muscle:</h3>
 
 <div align="center">
            
