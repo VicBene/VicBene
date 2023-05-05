@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenid@s al VicBenGit</h1>
+<h1 align="center">Bienvenid@s al VBGit</h1>
 
 <p align="center">
            <img width="720" height="360" src=https://actions.es/wp-content/uploads/2020/08/datos1-1.jpg>
@@ -31,7 +31,8 @@ def sobre_mi():
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-           
+[![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=for-the-badge&logo=powerBI&logoColor=white)](https://powerbi.microsoft.com/)
+  
 </div>
 
 <h3 align="center">Capacidades y habilidades en formación (estamos trabajando en ello):muscle:</h3>
@@ -39,7 +40,6 @@ def sobre_mi():
 <div align="center">
            
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-orange?style=for-the-badge&logo=powerBI&logoColor=white)](https://powerbi.microsoft.com/)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/es/)
