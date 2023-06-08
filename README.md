@@ -65,6 +65,13 @@ def sobre_mi():
            
 </div>
 
+<h3 align="center">Habilidades y certificaciones en Gestión de Proyectos 🔁</h3>
+
+<div align="center">
+
+<a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Scrum Manager Técnico' src='https://scrummanager.com/website/img/tecnico-es.png'></a>
+<a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Kanban Essentials' src='https://scrummanager.com/intranet/files/credential/9/smalllogo.png'></a>
+<a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>      
 
 <h3 align="center">Datos de contacto :love_letter:</h3>
 
