@@ -42,6 +42,7 @@ def sobre_mi():
 
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Master I' src='https://static.scrum.org/web/badges/badge-psmi.svg' width="100" height="100"></a>
 <a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Product Owner I' src='https://static.scrum.org/web/badges/badge-pspoi.svg' width="100" height="100"></a>
+<a href='https://www.scrum.org/user/1248029'> <img alt='Professional Scrum Master II' src='https://static.scrum.org/web/badges/badge-psmii.svg' width="100" height="100"></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Scrum Manager Técnico' src='https://scrummanager.com/website/img/tecnico-es.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Kanban Essentials' src='https://scrummanager.com/intranet/files/credential/9/smalllogo.png'></a>
 <a href='https://scrummanager.com/website/c/profile/member.php?id=44131'><img alt='Lean' src='https://scrummanager.com/intranet/files/credential/12/smalllogo.png'></a>      
