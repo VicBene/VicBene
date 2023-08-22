@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenid@s al VBGit</h1>
+<h1 align="center">Bienvenid@s a mi espacio digital</h1>
 
 <p align="center">
            <img width="720" height="360" src=https://actions.es/wp-content/uploads/2020/08/datos1-1.jpg>
@@ -8,14 +8,15 @@
 #Sobre mi...
 def sobre_mi():
    nombre = "Víctor Beneito López"
-   pais = "España"
+   lugar = "A Coruña, Galicia, España"
    titulacion_universitaria = "Ingeniería Técnica en Informática de Gestión (Universidad Pontificia de Salamanca)"
    master = "Master of Business Administration (MBA), EAE Business School (Universidad de Barcelona)"
    experiencia_laboral = "Director de Agencias (Caser Seguros), Ejecutivo Comercial (Banco Santander), Encargado de tienda (Grupo PCBox)"
    hobbies_y_aficiones = "Música, lectura, viajes, videojuegos... y por supuesto: el mundo de la INFORMÁTICA"
+   otras_cosas = "Presidente de la Asociación de Antiguos Alumnos del Colegio Santa María del Mar (Jesuitas), Tenor lírico solista".
 ```
 
-<h3 align="center">Capacidades y habilidades técnicas actuales:star:</h3>
+<h3 align="center">:star: Capacidades y habilidades técnicas actuales :star:</h3>
 
 <div align="center">
            
@@ -36,7 +37,7 @@ def sobre_mi():
   
 </div>
 
-<h3 align="center">Certificaciones Profesionales en Gestión de Proyectos 🔁</h3>
+<h3 align="center">🔁 Certificaciones Profesionales en Gestión de Proyectos 🔁</h3>
 
 <div align="center">
 
@@ -50,7 +51,7 @@ def sobre_mi():
 
 </div>
 
-<h3 align="center">Capacidades y habilidades en formación (estamos trabajando en ello):muscle:</h3>
+<h3 align="center">:muscle: Capacidades y habilidades en formación (estamos trabajando en ello) :muscle:</h3>
 
 <div align="center">
            
@@ -62,7 +63,7 @@ def sobre_mi():
            
 </div>
 
-<h3 align="center">Capacidades y habilidades técnicas con las que he trabajo en alguna ocasión:eyes:</h3>
+<h3 align="center">:eyes: Capacidades y habilidades técnicas con las que he trabajo en alguna ocasión :eyes:</h3>
 
 <div align="center">
 
@@ -79,7 +80,7 @@ def sobre_mi():
            
 </div>
 
-<h3 align="center">Datos de contacto :love_letter:</h3>
+<h3 align="center">:love_letter: Datos de contacto :love_letter:</h3>
 
 <div align="center">
            
@@ -90,7 +91,7 @@ def sobre_mi():
            
 </div>
 
-<h3 align="center">Y más datos :bar_chart:</h3>
+<h3 align="center">:bar_chart: Y más datos :bar_chart:</h3>
 
 <div dir="auto" align="center">
 
