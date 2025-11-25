@@ -11,7 +11,7 @@ def sobre_mi():
    lugar = "A Coruña, Galicia, España"
    titulacion_universitaria = "Ingeniería Técnica en Informática de Gestión (Universidad Pontificia de Salamanca)"
    master = "Master of Business Administration (MBA), EAE Business School (Universidad de Barcelona)"
-   experiencia_laboral = "Service Manager Assistant + QA Manager (ITSM) en Altia (ver mi perfil de LinkedIn)"
+   experiencia_laboral = "Service Manager IT en Minsait (ver mi perfil de LinkedIn)"
    hobbies_y_aficiones = "Música, lectura, viajes, videojuegos... y por supuesto: el mundo de la INFORMÁTICA"
    otras_cosas = "Presidente de la Asociación de Antiguos Alumnos del Colegio Santa María del Mar (Jesuitas), Tenor lírico solista".
 ```
